@@ -1,0 +1,14 @@
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\DJS.MyProject.UI.Tests\bin\Debug\DJS.MyProject.UI.Tests.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\DJS.MyProject.UI.Tests\bin\Debug\DJS.MyProject.UI.Tests.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\DJS.MyProject.UI.Tests\obj\Debug\DJS.MyProject.UI.Tests.csprojResolveAssemblyReference.cache
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\DJS.MyProject.UI.Tests\obj\Debug\DJS.MyProject.UI.Tests.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\DJS.MyProject.UI.Tests\obj\Debug\DJS.MyProject.UI.Tests.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI.Tests\bin\Debug\DJS.MyProject.UI.Tests.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI.Tests\bin\Debug\DJS.MyProject.UI.Tests.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI.Tests\bin\Debug\DJS.MyProject.UI.exe
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI.Tests\bin\Debug\DJS.MyProject.UI.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI.Tests\obj\Debug\DJS.MyProject.UI.Tests.csprojResolveAssemblyReference.cache
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI.Tests\obj\Debug\DJS.MyProject.UI.Tests.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI.Tests\obj\Debug\DJS.MyProject.UI.Tests.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI.Tests\bin\Debug\Moq.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI.Tests\bin\Debug\Moq.xml

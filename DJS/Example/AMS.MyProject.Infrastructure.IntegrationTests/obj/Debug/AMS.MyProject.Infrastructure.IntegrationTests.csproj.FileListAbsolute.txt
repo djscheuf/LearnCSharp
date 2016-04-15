@@ -1,0 +1,16 @@
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\AMS.MyProject.Infrastructure.IntegrationTests\bin\Debug\AMS.MyProject.Infrastructure.IntegrationTests.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\AMS.MyProject.Infrastructure.IntegrationTests\bin\Debug\AMS.MyProject.Infrastructure.IntegrationTests.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\AMS.MyProject.Infrastructure.IntegrationTests\obj\Debug\AMS.MyProject.Infrastructure.IntegrationTests.csprojResolveAssemblyReference.cache
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\AMS.MyProject.Infrastructure.IntegrationTests\obj\Debug\AMS.MyProject.Infrastructure.IntegrationTests.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\AMS.MyProject.Infrastructure.IntegrationTests\obj\Debug\AMS.MyProject.Infrastructure.IntegrationTests.pdb
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\bin\Debug\AMS.MyProject.Infrastructure.IntegrationTests.dll
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\bin\Debug\AMS.MyProject.Infrastructure.IntegrationTests.pdb
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\bin\Debug\DJS.MyProject.Infrastructure.dll
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\bin\Debug\DJS.MyProject.UI.exe
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\bin\Debug\DJS.MyProject.Infrastructure.pdb
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\bin\Debug\DJS.MyProject.UI.pdb
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\obj\Debug\AMS.MyProject.Infrastructure.IntegrationTests.csprojResolveAssemblyReference.cache
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\obj\Debug\AMS.MyProject.Infrastructure.IntegrationTests.dll
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\obj\Debug\AMS.MyProject.Infrastructure.IntegrationTests.pdb
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\bin\Debug\Moq.dll
+E:\_Source\Playground\djscheuf\LearnC#\AMS.MyProject.Infrastructure.IntegrationTests\bin\Debug\Moq.xml

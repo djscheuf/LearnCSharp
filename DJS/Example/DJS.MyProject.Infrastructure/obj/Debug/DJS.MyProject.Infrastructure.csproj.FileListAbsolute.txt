@@ -1,0 +1,10 @@
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\DJS.MyProject.Infrastructure\bin\Debug\DJS.MyProject.Infrastructure.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\DJS.MyProject.Infrastructure\bin\Debug\DJS.MyProject.Infrastructure.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\DJS.MyProject.Infrastructure\obj\Debug\DJS.MyProject.Infrastructure.csprojResolveAssemblyReference.cache
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\DJS.MyProject.Infrastructure\obj\Debug\DJS.MyProject.Infrastructure.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.UI\DJS.MyProject.Infrastructure\obj\Debug\DJS.MyProject.Infrastructure.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.Infrastructure\bin\Debug\DJS.MyProject.Infrastructure.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.Infrastructure\bin\Debug\DJS.MyProject.Infrastructure.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.Infrastructure\obj\Debug\DJS.MyProject.Infrastructure.csprojResolveAssemblyReference.cache
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.Infrastructure\obj\Debug\DJS.MyProject.Infrastructure.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.MyProject.Infrastructure\obj\Debug\DJS.MyProject.Infrastructure.pdb
