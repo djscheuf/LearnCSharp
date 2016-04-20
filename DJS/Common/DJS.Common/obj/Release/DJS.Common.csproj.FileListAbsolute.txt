@@ -1,0 +1,10 @@
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common\bin\Release\DJS.Common.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common\bin\Release\DJS.Common.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common\obj\Release\Views\LoggerView.g.cs
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common\obj\Release\DJS.Common_MarkupCompile.cache
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common\obj\Release\DJS.Common_MarkupCompile.lref
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common\obj\Release\Views\LoggerView.baml
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common\obj\Release\DJS.Common.g.resources
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common\obj\Release\DJS.Common.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common\obj\Release\DJS.Common.pdb

@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="DJS.Common.Views.LoggerView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:logs="clr-namespace:DJS.Common.Models"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <Style TargetType="ItemsControl" x:Key="LogViewerStyle">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <ScrollViewer CanContentScroll="True">
+                            <ItemsPresenter/>
+                        </ScrollViewer>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <Setter Property="ItemsPanel">
+                <Setter.Value>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel IsItemsHost="True" Background="Snow"/>
+                    </ItemsPanelTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <DataTemplate DataType="{x:Type logs:LogEntry}">
+            <TextBlock Text="{Binding Message}" Foreground="{Binding Brush}"
+                    TextWrapping="Wrap" Margin="5,0,5,0"/>
+        </DataTemplate>
+
+    </UserControl.Resources>
+<!-- The Data Context is Expected to be bound to the LoggingController, wherein Entries will populate the list. -->
+    <Expander Header="Log Output" ExpandDirection="Down">
+        <ItemsControl ItemsSource="{Binding Entries}" Style="{StaticResource LogViewerStyle}"/>
+    </Expander>
+</UserControl>

@@ -1,0 +1,9 @@
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\bin\Release\DJS.Common.Tests.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\bin\Release\DJS.Common.Tests.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\bin\Release\Moq.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\bin\Release\Moq.xml
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\obj\Release\DJS.Common.Tests.csprojResolveAssemblyReference.cache
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\obj\Release\DJS.Common.Tests.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\obj\Release\DJS.Common.Tests.pdb
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\bin\Release\DJS.Common.dll
+E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\bin\Release\DJS.Common.pdb
