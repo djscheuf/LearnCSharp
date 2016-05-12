@@ -8,11 +8,11 @@ If you have any questions or suggestions, please contact @djscheuf, who is the w
 - Common 
 	+ A Library for Common Functionality, like a Logger
 - Sudoku Puzzle
- 	+ [] Branch and check-in initial Code Projects
+ 	+ [ ] Branch and check-in initial Code Projects
 - Music Player
-	+ [] Branch and check-in initial Code Projects
+	+ [ ] Branch and check-in initial Code Projects
 - RTF Editor
-	+ [] Branch and check-in initial Code Projects
+	+ [ ] Branch and check-in initial Code Projects
 - Versioned-Application Installation Coordinator
-	+ [] Branch and check-in initial Code Projects
+	+ [ ] Branch and check-in initial Code Projects
 	
