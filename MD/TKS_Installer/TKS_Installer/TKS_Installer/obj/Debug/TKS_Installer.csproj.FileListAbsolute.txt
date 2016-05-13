@@ -1,0 +1,2 @@
+C:\TKS Installer\LearnCSharp\MD\TKS_Installer\TKS_Installer\TKS_Installer\bin\Debug\TKS_Installer.exe.config
+C:\TKS Installer\LearnCSharp\MD\TKS_Installer\TKS_Installer\TKS_Installer\bin\Debug\TKS_Installer.UI.exe.config
