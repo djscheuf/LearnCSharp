@@ -1,0 +1,14 @@
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\bin\Debug\IH.FunWithRTF.UI.exe.config
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\bin\Debug\IH.FunWithRTF.UI.exe
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\bin\Debug\IH.FunWithRTF.UI.pdb
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\IanFunWithRTFUI.csprojResolveAssemblyReference.cache
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\MainWindow.g.cs
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\App.g.cs
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\IH.FunWithRTF.UI_MarkupCompile.cache
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\IH.FunWithRTF.UI_MarkupCompile.lref
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\MainWindow.baml
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\IH.FunWithRTF.UI.g.resources
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\FunWithRTF.Properties.Resources.resources
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\IanFunWithRTFUI.csproj.GenerateResource.Cache
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\IH.FunWithRTF.UI.exe
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\IH.FunWithRTF.UI.pdb
