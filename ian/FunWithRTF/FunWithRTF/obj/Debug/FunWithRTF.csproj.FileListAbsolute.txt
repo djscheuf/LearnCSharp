@@ -1,0 +1,4 @@
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\bin\Debug\FunWithRTF.exe.config
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\bin\Debug\IH.FunWithRTF.UI.exe.config
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\IH.FunWithRTF.UI.exe
+C:\LearnCSharp\ian\FunWithRTF\FunWithRTF\obj\Debug\IH.FunWithRTF.UI.pdb
