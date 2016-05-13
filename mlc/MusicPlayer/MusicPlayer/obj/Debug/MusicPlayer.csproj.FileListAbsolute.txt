@@ -1,0 +1,3 @@
+C:\GitHub\LearnCSharp\mlc\MusicPlayer\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\GitHub\LearnCSharp\mlc\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\GitHub\LearnCSharp\mlc\MusicPlayer\MusicPlayer\bin\Debug\MLC.MusicPlayer.UI.exe.config
