@@ -1,0 +1,2 @@
+C:\Playground\GT.Sudoku.UI\GT.Sudoku.UI\bin\Debug\GT.Sudoku.UI.exe.config
+C:\Playground\Sudoku\GT.Sudoku.UI\bin\Debug\GT.Sudoku.UI.exe.config

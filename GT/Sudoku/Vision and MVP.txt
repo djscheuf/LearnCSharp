@@ -1,0 +1,46 @@
+Vision
+1. three levels of game to play
+2. three color theme to select
+3. track game time
+4. allow pause and resume
+5. give hint if needed
+6. log best score
+7. allow exit and start new game at any time
+8. tell the user he wins when he finishes the puzzle
+9. provide help for new users
+
+
+Minimum Viable Product
+1. one level of game to play
+2. one default color theme
+3. tell the user he wins when he finishes the puzzle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+draft
+1. three levels of game to play (start with one level)
+2. three color theme to select (start with one color)
+3. track game time (start with no time limit)
+4. allow pause and resume (start with no pause and resume)
+5. give hint if needed (start with no hint)
+6. log best score (start with no log)
+7. allow exit and start new game at any time
+8. tell the user he wins when he finishes the puzzle
+9. provide help for new users

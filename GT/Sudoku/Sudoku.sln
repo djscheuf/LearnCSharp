@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GT.Sudoku.UI", "GT.Sudoku.UI\GT.Sudoku.UI.csproj", "{C093656F-1E53-4EB6-9867-3E9FA2DE35DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GT.Sudoku.UI.Test", "GT.Sudoku.UI.Test\GT.Sudoku.UI.Test.csproj", "{6A4BEBD4-BB1F-4364-8C82-BA8C90169AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GT.Sudoku.Infrastructure", "GT.Sudoku.Infrastructure\GT.Sudoku.Infrastructure.csproj", "{4CFDB4FC-6622-491A-BD4F-0D07FE537C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GT.Sudoku.Infrastructure.Test", "GT.Sudoku.Infrastructure.Test\GT.Sudoku.Infrastructure.Test.csproj", "{65905D6B-61E0-4C28-9EBD-4D3B94AC3FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C093656F-1E53-4EB6-9867-3E9FA2DE35DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C093656F-1E53-4EB6-9867-3E9FA2DE35DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C093656F-1E53-4EB6-9867-3E9FA2DE35DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C093656F-1E53-4EB6-9867-3E9FA2DE35DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4BEBD4-BB1F-4364-8C82-BA8C90169AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4BEBD4-BB1F-4364-8C82-BA8C90169AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4BEBD4-BB1F-4364-8C82-BA8C90169AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4BEBD4-BB1F-4364-8C82-BA8C90169AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CFDB4FC-6622-491A-BD4F-0D07FE537C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CFDB4FC-6622-491A-BD4F-0D07FE537C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CFDB4FC-6622-491A-BD4F-0D07FE537C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CFDB4FC-6622-491A-BD4F-0D07FE537C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65905D6B-61E0-4C28-9EBD-4D3B94AC3FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65905D6B-61E0-4C28-9EBD-4D3B94AC3FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65905D6B-61E0-4C28-9EBD-4D3B94AC3FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65905D6B-61E0-4C28-9EBD-4D3B94AC3FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
