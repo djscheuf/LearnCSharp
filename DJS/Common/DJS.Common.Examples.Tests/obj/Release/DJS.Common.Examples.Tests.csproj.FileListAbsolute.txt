@@ -1,0 +1,5 @@
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Examples.Tests\bin\Release\DJS.Common.Examples.Tests.dll
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Examples.Tests\bin\Release\DJS.Common.Examples.Tests.pdb
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Examples.Tests\obj\Release\DJS.Common.Examples.Tests.csprojResolveAssemblyReference.cache
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Examples.Tests\obj\Release\DJS.Common.Examples.Tests.dll
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Examples.Tests\obj\Release\DJS.Common.Examples.Tests.pdb

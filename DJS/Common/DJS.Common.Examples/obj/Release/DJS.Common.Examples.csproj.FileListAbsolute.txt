@@ -1,0 +1,1 @@
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Examples\obj\Release\DJS.Common.Examples.csprojResolveAssemblyReference.cache

@@ -7,3 +7,12 @@ E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\obj\Release\D
 E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\obj\Release\DJS.Common.Tests.pdb
 E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\bin\Release\DJS.Common.dll
 E:\_Source\Playground\djscheuf\LearnC#\DJS.Common\DJS.Common.Tests\bin\Release\DJS.Common.pdb
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Tests\bin\Release\DJS.Common.Tests.dll
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Tests\bin\Release\DJS.Common.Tests.pdb
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Tests\bin\Release\DJS.Common.dll
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Tests\bin\Release\Moq.dll
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Tests\bin\Release\DJS.Common.pdb
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Tests\bin\Release\Moq.xml
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Tests\obj\Release\DJS.Common.Tests.csprojResolveAssemblyReference.cache
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Tests\obj\Release\DJS.Common.Tests.dll
+E:\_Projects\LearnCSharp\DJS\Common\DJS.Common.Tests\obj\Release\DJS.Common.Tests.pdb

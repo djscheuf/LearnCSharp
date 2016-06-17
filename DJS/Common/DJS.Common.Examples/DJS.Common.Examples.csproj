@@ -39,10 +39,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assessments\Session2\Accumulator.cs" />
-    <Compile Include="Assessments\Session2\AccumulatorErrorEvaluation.cs" />
-    <Compile Include="Assessments\Session2\AccumulatorEvalution.cs" />
+    <Compile Include="Homeworks\Session2\Accumulator.cs" />
+    <Compile Include="Homeworks\Session2\AccumulatorErrorEvaluation.cs" />
+    <Compile Include="Homeworks\Session2\AccumulatorEvalution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Homeworks\Session3\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
